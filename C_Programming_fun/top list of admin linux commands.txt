@@ -1,0 +1,76 @@
+// top list of admin linux commands
+
+sudo and sudo su - "sudo and su like run as"
+
+use termintor terminal
+
+install -S cmatrix 
+
+man "then the command "
+apropos 
+
+
+printf( uname -a -v -r "kernal info about system") 
+whoami
+blkid
+id 
+which 
+
+
+cd "change directory "
+pwd "print working directory"
+ls -a or ls -l 
+
+mkdir
+rm 
+cp source to location 
+
+gedit then file name 
+cat filename 
+less filename
+| pipes 
+locate "the the file name" 
+
+ifconfig
+ip addr show  "all devices" 
+ping google.com -c 3
+
+
+df -ah "all file systems "
+fsck 
+
+service serviceName Status
+systemctl status serviceName
+
+du -sh "space used in in a directory "
+
+netstat -tulpn "tcp udp services "
+
+ps aux -a | grep nameOfService
+
+top
+htop 
+
+mount thenFullPath /mnt
+
+mount "no arguments list mounting points "
+
+mount is found in fstab
+
+sort grep and pipes | "more less pg "
+grep "scans a file for specifics the contents of  afile"
+
+$PATH
+./programName 
+ps aux 
+bg 
+jobs
+fg job number 
+
+STDOUT >
+STDIN <
+STDERR 
+cat >> re-direct into a file  
+>> UPDATE APPEND INFO 
+
+kill 

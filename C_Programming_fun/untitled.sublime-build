@@ -1,0 +1,14 @@
+
+
+print("Hello World ! Python3")
+
+inp = input ('Your location ? : ')
+
+loc = inp(inp) + 1
+
+print(int , '')
+
+
+
+
+
